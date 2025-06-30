@@ -1,0 +1,14 @@
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\bin\Debug\net8.0\FileSysPractice.exe
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\bin\Debug\net8.0\FileSysPractice.deps.json
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\bin\Debug\net8.0\FileSysPractice.runtimeconfig.json
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\bin\Debug\net8.0\FileSysPractice.dll
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\bin\Debug\net8.0\FileSysPractice.pdb
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.AssemblyInfoInputs.cache
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.AssemblyInfo.cs
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.dll
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\refint\FileSysPractice.dll
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.pdb
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\FileSysPractice.genruntimeconfig.cache
+C:\Users\Ahmed\source\repos\FileSysDemo\FileSysPractice\obj\Debug\net8.0\ref\FileSysPractice.dll
